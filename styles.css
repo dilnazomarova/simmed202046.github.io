@@ -1,0 +1,152 @@
+.navi{margin-top: 50px;
+
+}
+.nav-link{
+  font-size: 24px;
+}
+.blockquote{
+  display:block;
+
+}
+#n{
+  margin-top: 50px;
+
+}
+#d{
+margin-bottom: 100px;
+
+}
+.face{
+  margin-left: 50px;
+}
+.best{ font-family: 'Roboto'; font-size: 51px; font-style: normal; font-weight: 100;
+
+ margin-top: 100px;
+ display: block;
+}
+
+h1 { font-family: 'Roboto'; font-size: 51px; font-style: normal; font-weight: 100; }
+h2 { font-family: 'Roboto'; font-size: 40px; font-style: normal; font-weight: 100; }
+h3 { font-family: 'Roboto'; font-style: normal; font-weight: 100; }
+h4 { font-family: 'Montserrat'; font-style: normal; font-weight: 100; }
+h5 { font-family: 'Montserrat'; font-style: normal; font-weight: 100; }
+h6 { font-family: 'Montserrat'; font-style: normal; font-weight: 300; }
+
+.prod{
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+ footer{
+   margin-top: 50px;
+ }
+
+.card-text{
+  color:gray;
+}
+#list{
+  margin-top: 50px;
+margin-left: 170px;
+}
+ #bread{
+  margin-left: 170px;
+   color: gray;
+ }
+#car{
+  margin-left: 170px;
+}
+#des{
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-left: 170px;
+}
+#other{
+  margin-left: 170px;
+    margin-bottom: 100px;
+}
+#best{
+    margin-left: 170px;
+}
+ #hid{
+   color:#212529;;
+ }
+
+
+.why{
+text-align: center;
+margin-top: 100px;
+}
+
+
+.textcols {
+	display: table;
+	width: 1000px;
+	border-collapse: collapse;
+  margin-left: 150px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+
+}
+.textcols-row {
+	 display: table-row;
+}
+.textcols-item {
+	display: table-cell;
+	width: 50%;
+	vertical-align: top;
+	padding: 0;
+
+
+}
+.textcols-row .textcols-item:first-child {
+	border-right: 30px ;
+padding: 1%;
+  margin-left: 200px;
+
+}
+.textcols-row .textcols-item:last-child {
+	border-left: 30px ;
+
+  margin-left: 200px;
+
+
+}
+
+
+
+.textcols2 {
+	display: table;
+	width:1000px;
+	border-collapse: collapse;
+  margin-left: 150px;;
+  margin-top: 30px;
+  margin-bottom: 100px;
+
+
+}
+.textcols-row2 {
+	 display: table-row;
+}
+.textcols-item2 {
+	display: table-cell;
+	width: 50%;
+	vertical-align: top;
+	padding: 0;
+
+
+}
+.textcols-row2 .textcols-item2:first-child {
+	border-right: 30px ;
+
+  margin-left: 200px;
+
+}
+.textcols-row2 .textcols-item2:last-child {
+	border-left: 30px ;
+padding: 1%;
+  margin-left: 200px;
+
+}
+
+.partners{
+  margin-left: 150px;
+}
